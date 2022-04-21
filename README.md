@@ -14,4 +14,5 @@ And then the user has to write a sentence or a morse code for the translation.
 ![r](https://user-images.githubusercontent.com/38404897/164546894-ed481381-f856-47cd-9c7a-c8a7cc7f4a85.PNG)
 
 The program is developed by using hashmaps to store the characters as keys
-and morse codes as values, and two methods to do the translations.
+and morse codes as values, and two methods to do the translations for both
+cases english->morse and morse->english.
