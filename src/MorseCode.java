@@ -34,8 +34,8 @@ public class MorseCode {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            System.out.println("The Code: " + english);
-            System.out.println("Translation: " + morse);
+            System.out.println("The Code: " + morse);
+            System.out.println("Translation: " + english);
         } else if (s == 2) {
             System.out.println("Enter a word or a sentence:");
             String sentence = scan.nextLine();
